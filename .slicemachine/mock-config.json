@@ -1,0 +1,14 @@
+{
+  "slices": {
+    "Sliceone": {
+      "default": {
+        "primary": {}
+      }
+    },
+    "ImageGrid": {}
+  },
+  "_cts": {
+    "homepage": {},
+    "about": {}
+  }
+}
